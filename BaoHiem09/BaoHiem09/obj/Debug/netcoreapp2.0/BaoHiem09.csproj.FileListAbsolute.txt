@@ -1,0 +1,11 @@
+D:\Code.net\repos\BaoHiem09\BaoHiem09\bin\Debug\netcoreapp2.0\BaoHiem09.deps.json
+D:\Code.net\repos\BaoHiem09\BaoHiem09\bin\Debug\netcoreapp2.0\BaoHiem09.runtimeconfig.json
+D:\Code.net\repos\BaoHiem09\BaoHiem09\bin\Debug\netcoreapp2.0\BaoHiem09.runtimeconfig.dev.json
+D:\Code.net\repos\BaoHiem09\BaoHiem09\bin\Debug\netcoreapp2.0\BaoHiem09.dll
+D:\Code.net\repos\BaoHiem09\BaoHiem09\bin\Debug\netcoreapp2.0\BaoHiem09.pdb
+D:\Code.net\repos\BaoHiem09\BaoHiem09\obj\Debug\netcoreapp2.0\BaoHiem09.csprojResolveAssemblyReference.cache
+D:\Code.net\repos\BaoHiem09\BaoHiem09\obj\Debug\netcoreapp2.0\BaoHiem09.csproj.CoreCompileInputs.cache
+D:\Code.net\repos\BaoHiem09\BaoHiem09\obj\Debug\netcoreapp2.0\BaoHiem09.AssemblyInfoInputs.cache
+D:\Code.net\repos\BaoHiem09\BaoHiem09\obj\Debug\netcoreapp2.0\BaoHiem09.AssemblyInfo.cs
+D:\Code.net\repos\BaoHiem09\BaoHiem09\obj\Debug\netcoreapp2.0\BaoHiem09.dll
+D:\Code.net\repos\BaoHiem09\BaoHiem09\obj\Debug\netcoreapp2.0\BaoHiem09.pdb
